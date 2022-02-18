@@ -14,3 +14,4 @@ love family
 
 
 yee
+#new_blob > div > file-attachment > div > div.commit-create.position-relative > div > div > div.CodeMirror-gutter-filler
